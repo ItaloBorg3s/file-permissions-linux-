@@ -4,7 +4,7 @@ The `chmod` command in Linux is used to change file and directory permissions. B
 
 ## 📌 Changing File Permissions
 
-### 1 Grant execute permission to the owner:
+### 1️⃣ Grant execute permission to the owner:
 ```sh
 chmod u+x script.sh
 ```
